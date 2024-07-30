@@ -1,2 +1,2 @@
 # videochatapp
-this app is use for video chat , and realible for multiple users 
+this app is use for video chat , and reliable for multiple users 
